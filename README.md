@@ -5,6 +5,8 @@
 
 ### Senior Engineer at InGaia and Professor at GamaAcademy
 
+<center>
+
  <div>
   <a href="https://github.com/mrdouglasmorais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrdouglasmorais&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
@@ -40,3 +42,5 @@
   ![Snake animation](https://github.com/mrdouglasmorais/mrdouglasmorais/blob/main/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ </center>
