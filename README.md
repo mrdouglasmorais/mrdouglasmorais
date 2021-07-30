@@ -5,6 +5,8 @@
 
 ### Senior Engineer at InGaia and Professor at GamaAcademy
 
+<hr/>
+
 <center>
 
  <div>
