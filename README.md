@@ -8,7 +8,7 @@
  <div>
   <a href="https://github.com/mrdouglasmorais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrdouglasmorais&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdouglasmorais&layout=compact&langs_count=10&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdouglasmorais&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Douglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,9 +23,13 @@
  
 </div>
  
+ <hr/>
+ 
  <div>
    <img align="center" alt="Madalorian-yoda" src="https://i.pinimg.com/originals/b3/e9/1f/b3e91ff096b62c849d3491b1f5fef6d5.gif">
  </div>
+ 
+ <hr/>
 
  
 <div> 
