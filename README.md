@@ -1,4 +1,10 @@
 ## Hi, my name is Douglas Morais.
+### I'm 33 years old, passionate about mobile development.
+
+### Studying flutter.
+
+### Senior Engineer at InGaia and Professor at GamaAcademy
+
  <div>
   <a href="https://github.com/mrdouglasmorais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrdouglasmorais&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
@@ -16,11 +22,11 @@
  <br> 
  
 </div>
-  ##
-  
- <img align="center" alt="Madalorian-yoda" src="https://i.pinimg.com/originals/b3/e9/1f/b3e91ff096b62c849d3491b1f5fef6d5.gif">
-  
-  ##
+ 
+ <div>
+   <img align="center" alt="Madalorian-yoda" src="https://i.pinimg.com/originals/b3/e9/1f/b3e91ff096b62c849d3491b1f5fef6d5.gif">
+ </div>
+
  
 <div> 
   <a href="https://instagram.com/douglasmorais" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
