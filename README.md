@@ -3,7 +3,7 @@
 
 ### Studying flutter.
 
-### Senior Engineer at InGaia and Professor at GamaAcademy
+### Senior Engineer at InGaia and Teacher at GamaAcademy
 
 <hr/>
 
