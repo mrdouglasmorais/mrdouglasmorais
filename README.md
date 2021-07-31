@@ -29,11 +29,9 @@
  
  <hr/>
  
-  # may the force be with you
+  # May the force be with you!
  <div>
-  <center>
-   <img align="center" alt="Madalorian-yoda" src="https://i.pinimg.com/originals/b3/e9/1f/b3e91ff096b62c849d3491b1f5fef6d5.gif">
-  </center>
+   <img align="center" justify="center" alt="Madalorian-yoda" src="https://i.pinimg.com/originals/b3/e9/1f/b3e91ff096b62c849d3491b1f5fef6d5.gif">
  </div>
  
  <hr/>
