@@ -1,8 +1,6 @@
 ## Hi, my name is Douglas Morais.
 ### I'm 35 years old, passionate about mobile development.
 
-### Studying flutter.
-
 ### Tech Lead at Kenlo and Teacher at GamaAcademy
 
 <hr/>
