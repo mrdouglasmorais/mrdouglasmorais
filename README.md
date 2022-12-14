@@ -1,5 +1,5 @@
 ## Hi, my name is Douglas Morais.
-### I'm 35 years old, passionate about mobile development.
+### I'm 35 years old, passionate about development.
 
 ### Tech Lead at Kenlo and Teacher at GamaAcademy
 
