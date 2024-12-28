@@ -1,7 +1,7 @@
 ## Hi, my name is Douglas Morais.
-### I'm 36 years old, passionate about development.
+### I'm 37 years old, passionate about development.
 
-### Tech Lead / Tech Manager and Teacher at GamaAcademy
+### Tech Lead at Natura & Co and Teacher at Gama Academy
 
 <hr/>
 
