@@ -1,7 +1,31 @@
-## Hi, my name is Douglas Morais.
-### I'm 38 years old, passionate about development.
+## 👋 Hi, I'm Douglas Morais  
+### CEO & CTO at [Habitvs](https://www.habitvs.io) · Tech Lead at [Natura &Co](https://www.naturaeco.com) · Instructor at [Gama Academy](https://www.gama.academy)
 
-### Tech Lead at Natura & Co and Teacher at Gama Academy
+💡 38 years old — passionate about **software development**, **architecture**, and **innovation**.  
+🚀 I build scalable solutions that connect **technology, people, and purpose**.  
+
+🧠 **Architect** · **Innovation Leader** · **AWS Specialist** · **AI Enthusiast**  
+
+> I believe that great products are born from clarity, purpose, and clean architecture.  
+> My mission is to transform complex systems into experiences that feel simple, powerful, and human.  
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** TypeScript, C#, Python  
+- **Frameworks:** React, React Native, Next.js, .NET 9, Node.js  
+- **Cloud & DevOps:** AWS (Lambda, Fargate, DynamoDB, EventBridge), Terraform, Docker, Kubernetes  
+- **Architecture:** Clean Architecture · MVVM · Serverless · Microservices  
+- **Data & AI:** PostgreSQL, DynamoDB, Redis, OpenAI, Gemini  
+
+---
+
+### 🌎 About Me
+- 🌱 Constantly exploring the intersection of **technology and human experience**  
+- 💬 Talking about **PropTech, SaaS, Clean Architecture**, and **AI-driven innovation**  
+- ⚡ Founder mindset — building Habitvs from the ground up to empower the real estate ecosystem  
+
+---
 
 <hr/>
 
@@ -43,7 +67,7 @@
   <a href = "mailto:mr.douglasmorais23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/douglasmoraisdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://medium.com/@mr.douglasmorais23" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
- <a href="https://www.douglasmorais.online/" target="_blank"><img src="https://img.shields.io/badge/-My%20Website-%23007BFF?style=for-the-badge&logo=globe&logoColor=white" target="_blank"></a>
+ <a href="https://portfolio-git-main-mrdouglasmorais.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-My%20Website-%23007BFF?style=for-the-badge&logo=globe&logoColor=white" target="_blank"></a>
  
  
   ![Snake animation](https://github.com/mrdouglasmorais/mrdouglasmorais/blob/main/github-contribution-grid-snake.svg)
