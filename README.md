@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Douglas Morais  
-### CEO & CTO at [Habitvs](https://www.habitvs.io) · Tech Lead at [Natura &Co](https://www.naturaeco.com) · Instructor at [Gama Academy](https://www.gama.academy)
+### CEO & CTO at [Habitvs](https://www.habitvs.io) · Lead at [Natura &Co](https://www.naturaeco.com) · Instructor at [Gama Academy](https://www.gama.academy)
 
-💡 <span id="age"></span> years old — passionate about **software engineering**, **clean architecture**, and **innovation**.  
+💡 38 years old *(born on August 23, 1987)* — passionate about **software engineering**, **clean architecture**, and **innovation**.  
 🚀 I design and lead **scalable ecosystems** that connect **technology, people, and purpose**.  
 
 🧠 **Architect** · **Innovation Leader** · **AWS Specialist** · **AI Enthusiast**  
@@ -125,13 +125,3 @@ Supports multi-tenant management, CDN caching, and dynamic schema provisioning.
 </div>
 
 </center>
-
-<!-- Dynamic age calculation -->
-<script>
-  const birth = new Date(1987, 7, 23); // August is month 7 (0-indexed)
-  const today = new Date();
-  let age = today.getFullYear() - birth.getFullYear();
-  const m = today.getMonth() - birth.getMonth();
-  if (m < 0 || (m === 0 && today.getDate() < birth.getDate())) age--;
-  document.getElementById("age").innerText = age;
-</script>
