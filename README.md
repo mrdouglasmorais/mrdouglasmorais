@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Douglas Morais  
-### CEO & CTO at [Habitvs](https://www.habitvs.io) · Lead at [Natura &Co](https://www.naturaeco.com) · Instructor at [Gama Academy](https://www.gama.academy)
+### CEO & CTO at [Habitvs](https://www.habitvs.io) · Lead at [Natura &Co](https://www.emanapay.com.br) · Instructor at [Gama Academy](https://www.gama.academy)
 
 💡 38 years old *(born on August 23, 1987)* — passionate about **software engineering**, **clean architecture**, and **innovation**.  
 🚀 I design and lead **scalable ecosystems** that connect **technology, people, and purpose**.  
@@ -119,7 +119,7 @@ Supports multi-tenant management, CDN caching, and dynamic schema provisioning.
   <a href="mailto:mr.douglasmorais23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/douglasmoraissouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@mr.douglasmorais23" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-  <a href="https://portfolio-git-main-mrdouglasmorais.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-My%20Website-%23007BFF?style=for-the-badge&logo=globe&logoColor=white" target="_blank"></a>
+  <a href="https://portfolio-three-vert-82.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-My%20Website-%23007BFF?style=for-the-badge&logo=globe&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/mrdouglasmorais/mrdouglasmorais/blob/main/github-contribution-grid-snake.svg)
 </div>
