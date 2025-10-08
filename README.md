@@ -85,7 +85,7 @@ Supports multi-tenant management, CDN caching, and dynamic schema provisioning.
 <div>
   <a href="https://github.com/mrdouglasmorais">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrdouglasmorais&show_icons=true&theme=dark&rank_icon=github&cache_seconds=86400" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdouglasmorais&layout=compact&langs_count=10&theme=dark&hide_progress=false&cache_seconds=86400" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdouglasmorais&layout=compact&langs_count=10&theme=dark"/>
   </a>
 </div>
 
