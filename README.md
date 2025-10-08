@@ -21,45 +21,52 @@
 
 ---
 
-### 🌟 Featured Repositories
+### 🎨 Featured Projects
 
-#### 🧭 [Habitvs Orchestrator GraphQL](https://github.com/mrdouglasmorais/habitvs-orchestrator-graphql)
-Orchestrator built with **.NET 9** and **GraphQL**, acting as a BFF for Habitvs’ SaaS ecosystem.  
-Implements event-driven architecture with **AWS Lambda**, **EventBridge**, and **DynamoDB Streams**.
+#### 🍺 **Stella Signature – AB InBev (International)**
+International e-commerce project developed for **Stella Artois**, part of **AB InBev’s global portfolio**.  
+I was responsible for the **frontend architecture and implementation** using **React**, creating a premium and fluid shopping experience.  
+The solution integrates a **Headless Drupal CMS** for multilingual content and **Shopify** for global transactions, featuring **advanced animations**, **microinteractions**, and **intelligent country redirects** to deliver a seamless, localized user experience.
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=white&style=flat-square)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?logo=shopify&logoColor=white&style=flat-square)
+
+---
+
+#### 🏡 **Habitvs Platform**
+SaaS ecosystem designed to **digitize and modernize the real estate market** across Brazil and Latin America.  
+As **CEO & CTO**, I lead the technical vision and product architecture using **.NET 9**, **GraphQL**, **AWS**, and **Next.js**.  
+The platform unifies **CRM, marketing automation, headless CMS**, and **AI modules**, empowering agencies and brokers with intelligent digital tools.
 
 ![.NET](https://img.shields.io/badge/.NET%209-blue?logo=dotnet&style=flat-square)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&style=flat-square)
-![AWS](https://img.shields.io/badge/AWS%20Lambda-orange?logo=amazonaws&style=flat-square)
+![AWS](https://img.shields.io/badge/AWS%20Fargate-FF9900?logo=amazonaws&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&style=flat-square)
 
 ---
 
-#### 🤖 [Navis AI Assistant](https://github.com/mrdouglasmorais/navis-ai)
-Intelligent automation layer that powers Habitvs’ AI copilots for real estate operations.  
-Integrates **Groq LLM**, **TypeScript**, and **n8n workflows** for marketing and CRM automation.
+#### 💳 **EmanaPay – Natura &Co**
+Digital banking platform for **Natura &Co**, where I serve as **Tech Lead**.  
+Responsible for defining and implementing **serverless architecture** with **AWS Lambda**, **EventBridge**, and **DynamoDB**, ensuring security and scalability.  
+The platform integrates **Pix payments**, real-time data processing, and observability through **Datadog**, achieving enterprise-grade reliability and performance.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square)
-![AI](https://img.shields.io/badge/AI%20Automation-purple?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-ef6a5e?logo=n8n&style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&style=flat-square)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?logo=awslambda&style=flat-square)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&style=flat-square)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&style=flat-square)
 
 ---
 
-#### 📊 [Metrics View](https://github.com/mrdouglasmorais/metrics-view)
+#### 📊 **Metrics View**
 Interactive **Python dashboard** that consolidates **DORA Metrics**, **SonarQube**, and **Datadog** analytics.  
-Built with **Plotly Dash**, **Flask**, **PostgreSQL**, and **AWS App Runner**.
+Built with **Plotly Dash**, **Flask**, **PostgreSQL**, and deployed on **AWS App Runner**.  
+The project delivers actionable insights for engineering teams through visual analytics and automated data pipelines.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square)
 ![Dash](https://img.shields.io/badge/Plotly%20Dash-blue?logo=plotly&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&style=flat-square)
-
----
-
-#### 🏡 [Portvs CMS](https://github.com/mrdouglasmorais/portvs-cms)
-Headless CMS for Habitvs websites, built with **Next.js 15+**, **Tailwind**, and **AWS Fargate**.  
-Supports multi-tenant management, CDN caching, and dynamic schema provisioning.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&style=flat-square)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&style=flat-square)
-![Fargate](https://img.shields.io/badge/AWS%20Fargate-FF9900?logo=amazonaws&style=flat-square)
+![AWS](https://img.shields.io/badge/AWS%20App%20Runner-FF9900?logo=amazonaws&style=flat-square)
 
 ---
 
