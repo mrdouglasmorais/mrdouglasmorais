@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Douglas Morais  
-### CEO & CTO at [Habitvs](https://www.habitvs.io) · Lead at [Natura &Co](https://www.emanapay.com.br) · Instructor at [Gama Academy](https://www.gama.academy)
+### Solution Architech at [Habitvs](https://www.habitvs.io) · Lead at [Natura &Co](https://www.emanapay.com.br) · Instructor at [Gama Academy](https://www.gama.academy)
 
 💡 38 years old *(born on August 23, 1987)* — passionate about **software engineering**, **clean architecture**, and **innovation**.  
 🚀 I design and lead **scalable ecosystems** that connect **technology, people, and purpose**.  
