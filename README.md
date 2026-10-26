@@ -6,17 +6,17 @@
 <div align="center">
 
 <a href="https://github.com/mrdouglasmorais">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050816,45:312E81,100:06B6D4&height=280&section=header&text=DOUGLAS%20MORAIS&fontSize=62&fontColor=F8FAFC&fontAlignY=34&desc=SPECIALIST%20CONSULTANT%20%C2%B7%20AVAILABLE%20NOW&descAlignY=56&descSize=18&animation=twinkling" width="100%" alt="Douglas Morais — Specialist Consultant in Software Architecture, Distributed Systems and AI"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050816,45:312E81,100:06B6D4&height=280&section=header&text=DOUGLAS%20MORAIS&fontSize=62&fontColor=F8FAFC&fontAlignY=34&desc=SPECIALIST%20CONSULTANT%20%C2%B7%20LET%27S%20CONNECT&descAlignY=56&descSize=18&animation=twinkling" width="100%" alt="Douglas Morais — Specialist Consultant in Software Architecture, Distributed Systems and AI"/>
 </a>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=920&height=50&lines=Specialist+Consultant+%7C+Software+Architecture;Distributed+Systems+%7C+Cloud-Native+%7C+AWS;Generative+AI+%7C+RAG+%7C+Production+Agents;Available+now+%7C+Remote+%7C+International+teams" alt="Specialist consultant — architecture, distributed systems and production AI"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=920&height=50&lines=Specialist+Consultant+%7C+Software+Architecture;Distributed+Systems+%7C+Cloud-Native+%7C+AWS;Generative+AI+%7C+RAG+%7C+Production+Agents;Let%27s+connect+%7C+Remote+%7C+International+teams" alt="Specialist consultant — architecture, distributed systems and production AI"/>
 </a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/douglasmoraissouza/">
-  <img src="https://img.shields.io/badge/AVAILABLE%20NOW-Let's%20talk%20on%20LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Available now — LinkedIn"/>
+  <img src="https://img.shields.io/badge/LET%27S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's connect on LinkedIn"/>
 </a>
 <a href="mailto:mr.douglasmorais23@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-mr.douglasmorais23%40gmail.com-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Douglas Morais"/>
@@ -28,7 +28,7 @@
 <br/><br/>
 
 **Consultor especialista em arquitetura de software, sistemas distribuídos e IA em produção.**  
-**Disponível imediatamente** para recolocação e para projetos de consultoria.
+**Vamos nos conectar.**
 
 Remote · Brazil · International teams · Full-time or advisory
 
@@ -40,7 +40,7 @@ Remote · Brazil · International teams · Full-time or advisory
 </div>
 
 > [!TIP]
-> **Open to work — available immediately.** I partner with CTOs, heads of engineering and recruiting teams as a specialist consultant: architecture, distributed systems and generative AI that ships. Full-time role or a focused advisory engagement. [LinkedIn](https://www.linkedin.com/in/douglasmoraissouza/) · [Email](mailto:mr.douglasmorais23@gmail.com)
+> **Let's connect.** I work with engineering leaders and recruiting teams as a specialist consultant: architecture, distributed systems and generative AI that ships. Full-time role or a focused advisory engagement. [LinkedIn](https://www.linkedin.com/in/douglasmoraissouza/) · [Email](mailto:mr.douglasmorais23@gmail.com)
 
 ---
 
@@ -246,13 +246,13 @@ Curiosity, clarity and technical depth. I am happy to go deep on architecture, A
 
 <div align="center">
 
-## Let's talk this week
+## Let's connect
 
 <a href="https://www.linkedin.com/in/douglasmoraissouza/">
-  <img src="https://img.shields.io/badge/LinkedIn-Start%20a%20conversation-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:mr.douglasmorais23@gmail.com?subject=Architecture%20conversation%20with%20Douglas%20Morais">
-  <img src="https://img.shields.io/badge/Email-Available%20immediately-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/mrdouglasmorais?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-See%20the%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
@@ -263,7 +263,7 @@ Curiosity, clarity and technical depth. I am happy to go deep on architecture, A
 **Specialist consultant · open to full-time and advisory.**  
 Software Architect · Tech Lead · Senior Software Engineer
 
-Remote · Brazil · International teams · **Available now**
+Remote · Brazil · International teams · **Let's connect**
 
 <br/><br/>
 
@@ -276,9 +276,9 @@ Remote · Brazil · International teams · **Available now**
 #### Contributions in motion
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrdouglasmorais/mrdouglasmorais/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrdouglasmorais/mrdouglasmorais/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/mrdouglasmorais/mrdouglasmorais/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrdouglasmorais/mrdouglasmorais/output/github-contribution-grid-snake-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrdouglasmorais/mrdouglasmorais/output/github-contribution-grid-snake.gif" />
+  <img alt="Animated GitHub contribution snake eating the contribution grid" src="https://raw.githubusercontent.com/mrdouglasmorais/mrdouglasmorais/output/github-contribution-grid-snake.gif" width="100%" />
 </picture>
 
 <sub>Designed with curiosity, built with code, and improved continuously.</sub>
